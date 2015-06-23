@@ -1,0 +1,9 @@
+0 insert toy 10 1
+0 insert jin 10 2
+0 insert jeff 18 0
+0 dump
+3 insert joyce 9 2
+3 dump
+6 remove jin
+6 dump
+50 end
